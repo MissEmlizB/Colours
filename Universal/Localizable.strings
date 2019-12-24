@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Colours
+
+  Created by Emily Blackwell on 18/12/2019.
+  Copyright © 2019 Emily Blackwell. All rights reserved.
+*/
+
+
+// error - title - colour scheme name
+"err-tCSN" = "This function replaces this string with its localised version.";
+
+// error - message - colour scheme name
+"err-mCSN" = "You have selected an invalid colour scheme!";
+
+// error - colour name unavailable
+"err-cnu" = "Name identification is currently unavailable";
